@@ -24,4 +24,22 @@ if(10>3){
 //console.log(idade)
 
 let midia = "tv"
-console.log(Midia)
+console.log(midia)
+
+//Tipos de dados
+let idade
+let apelido
+
+idade = 15
+apelido = "Gui"
+console.log(typeof idade )
+console.log(typeof apelido)
+
+let concorda = true
+console.log(typeof concorda)
+
+let carros = ['gol','corsa', 'uno']
+console.log(typeof carros)
+
+let pessoa = {'nome':'guto', 'idade':'36'}
+console.log(typeof pessoa)
